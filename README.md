@@ -8,9 +8,11 @@ Fiz esse projeto com ajuda de um curso de JavaScript, para esse projeto tive que
 
  1. Tenha o node instalado
  2.  Inicialize o node
-
-    > npm init
+```
+ > npm init   
+```
+    
 3. Inicialize o backend
-
-
-    >npm run dev
+```
+> npm run dev
+```
